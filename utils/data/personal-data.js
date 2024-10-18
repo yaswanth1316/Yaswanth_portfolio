@@ -8,5 +8,5 @@ export const personalData = {
   address: 'Blacksburg, Virginia, United States - 24060 ',
   github: 'https://github.com/yaswanth1316',
   linkedIn: 'https://www.linkedin.com/in/yaswanth-chakiri-143980246',
-  resume: "https://drive.google.com/file/d/1QoA9CkOPuwLfH72BYtNyVmFtT04qzXFp/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/10mZI2kcT6B1VWWVvfyQpWNoVw8jc4XI5/view?usp=drive_link"
 }
