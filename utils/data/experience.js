@@ -1,10 +1,10 @@
 export const experiences = [
   {
     id: 1,
-    title: 'MERN STACK Developer',
-    company: "Verizeo-Microsoft (Internship)",
-    duration: "(July 2020 - Dec 2020)",
-    description: "[HTMl, CSS, ReactJs, NodeJS, ExpressJS, MongoDB]"
+    title: 'Web Developer',
+    company: "Wipro",
+    duration: "(Jan 2022 - Dec 2022)",
+    description: "[Python, Angular, Flask, Django, MySQL, Git]"
   },
   {
     id: 2,
