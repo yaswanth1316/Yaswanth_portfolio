@@ -2,9 +2,9 @@ export const experiences = [
   {
     id: 1,
     title: 'Web Developer',
-    company: "Wipro",
-    duration: "(Jan 2022 - Dec 2022)",
-    description: "[Python, Angular, Flask, Django, MySQL, Git]"
+    company: "Virginia Tech",
+    duration: "(May 2023 - May 2024)",
+    description: "[Python, React, Flask, MySQL, Git]"
   },
   {
     id: 2,
