@@ -18,6 +18,6 @@ export const experiences = [
     title: "Web Developer",
     company: "Chegg (freelance)",
     duration: "(Jan 2021 - Jul 2021)",
-    description: "[HTML, CSS, React, MySQL, Git]"
+    description: "[Python, HTML, CSS, React, MySQL, Git]"
   }
 ]
