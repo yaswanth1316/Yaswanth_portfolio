@@ -17,7 +17,8 @@ export const skillsData = [
   'Bootstrap',
   'Docker',
   'Figma',
-  'aws'
+  'aws',
+  'ruby'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
