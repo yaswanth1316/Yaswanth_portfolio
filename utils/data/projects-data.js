@@ -27,7 +27,7 @@ export const projectsData = [
         id: 3,
         name: 'Accolade',
         description: 'Developed Accolade app using Flask, PostgreSQL, and Stack API for a dynamic reward system. Managed 1,000+ user records with PostgreSQL, ensuring efficient data handling and scalability. Integrated Power BI to track user metrics, boosting user activity by 20%.',
-        tools: ['HTML', 'CSS', 'Flask', ' PostgreSQL,', 'PowerBI', 'StackAPI', 'Git'],
+        tools: ['HTML', 'CSS', 'Flask', 'Figma', ' PostgreSQL,', 'PowerBI', 'StackAPI', 'Git'],
         code: '',
         role: 'Full Stack Developer',
         demo: '',
