@@ -3,14 +3,14 @@ export const experiences = [
     id: 1,
     title: 'Python Full-Stack Developer',
     company: "NYU Health",
-    duration: "(May 2024 - Present)",
+    duration: "(Jan 2024 - Present)",
     description: "[Python, React, Django, React.js, Amazon S3, PostgreSQL, Git]"
   },
   {
     id: 2,
     title: 'Full-Stack Developer',
     company: "Dentsu",
-    duration: "(Jul 2021 - Dec 2022)",
+    duration: "(May 2021 - Dec 2022)",
     description: "[ Python, React, Flask, MySQL, Git]"
   },
   {
